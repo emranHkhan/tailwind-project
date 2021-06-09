@@ -6,3 +6,6 @@ React, Tailwindcss, aos
 
 # Overview
 ![homepage](./pixal.png)
+
+# Link
+[Pixal](https://pixal.netlify.app/)
