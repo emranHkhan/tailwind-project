@@ -1,8 +1,8 @@
-### Pixal
+# Pixal
 A simple website for searching images. 
 
 # Technology used
 React, Tailwindcss, aos
 
-## Overview
+# Overview
 ![homepage](./pixal.png)
