@@ -5,4 +5,4 @@ A simple website for searching images.
 React, Tailwindcss, aos
 
 ## Overview
-![homepage]('./pixal.png')
+![homepage](./pixal.png)
